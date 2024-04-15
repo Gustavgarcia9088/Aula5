@@ -50,6 +50,8 @@ d: diagonal menor
 
 
 RETANGULO
+
+
 A=b.h
 
 sendo
