@@ -87,3 +87,6 @@ b:base menor
 
 H:altura
 
+
+
+$A=\pi.{r²}$
