@@ -1,4 +1,4 @@
-TRIÂNGULO 
+⁰TRIÂNGULO 
 
 $A=\frac{b.h}{2}$
 
@@ -68,5 +68,5 @@ h: altura
 TRAPÉZIO 
 
 
-$\frac{(B+b).h}{2}$
+$A= \frac{(B+b).h}{2}$
 
