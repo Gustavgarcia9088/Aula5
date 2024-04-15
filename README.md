@@ -1,4 +1,4 @@
-⁰TRIÂNGULO 
+0⁰TRIÂNGULO 
 
 $A=\frac{b.h}{2}$
 
@@ -69,4 +69,21 @@ TRAPÉZIO
 
 
 $A= \frac{(B+b).h}{2}$
+
+
+
+SENDO
+
+
+
+A:área
+
+
+B:base maior
+
+
+b:base menor
+
+
+H:altura
 
