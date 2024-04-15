@@ -90,3 +90,12 @@ H:altura
 
 
 $A=\pi.{r²}$
+
+
+sendo
+
+
+A:área
+
+$\pi$
+
