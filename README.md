@@ -68,5 +68,5 @@ h: altura
 TRAPÉZIO 
 
 
-\frac{(B+b).h}{2}
+$\frac{(B+b).h}{2}$
 
