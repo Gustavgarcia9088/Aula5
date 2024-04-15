@@ -88,14 +88,26 @@ b:base menor
 H:altura
 
 
+CIRCULO
+
+
+
 
 $A=\pi.{r²}$
+
 
 
 sendo
 
 
+
 A:área
 
-$\pi$
+
+
+$\pi$: constante pi(3.14)
+
+
+
+r: raio
 
