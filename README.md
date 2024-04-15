@@ -17,7 +17,7 @@ h: altura
 
 
 
-quadrado
+QUADRADO 
 
 
 A=L²
