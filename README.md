@@ -5,13 +5,13 @@ $A=\frac{b.h}{2}$
 SENDO 
 
 
-A:ÁREA
+A: área
 
 
-b:base
+b: base
 
 
-h:altura
+h: altura
 
 
 
