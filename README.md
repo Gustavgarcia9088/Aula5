@@ -1,8 +1,18 @@
+TRIÂNGULO 
+
 $A=\frac{b.h}{2}$
 
 SENDO 
+
+
 A:ÁREA
-B:base
+
+
+b:base
+
+
 h:altura
 
-TRIÂNGULO 
+
+
+
