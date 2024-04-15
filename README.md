@@ -65,3 +65,8 @@ B: base
 h: altura
 
 
+TRAPÉZIO 
+
+
+\frac{(B+b).h}{2}
+
