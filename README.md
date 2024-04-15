@@ -15,4 +15,13 @@ h: altura
 
 
 
+quadrado
 
+A=L²
+
+sendo
+
+A: área
+
+
+L: lado
