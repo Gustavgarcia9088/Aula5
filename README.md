@@ -46,3 +46,20 @@ A: área
 D: diagonal maior
 
 d: diagonal menor 
+
+
+
+RETANGULO
+A=b.h
+
+sendo
+
+A: área
+
+
+B: base
+
+
+h: altura
+
+
